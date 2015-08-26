@@ -1,0 +1,15 @@
+title: PLUGIN_ADMIN.ADD_ACCOUNT
+
+form:
+  validation: loose
+  fields:
+
+    content:
+      type: section
+      title: PLUGIN_ADMIN.ADD_ACCOUNT
+
+    username:
+      type: text
+      label: PLUGIN_ADMIN.USERNAME
+      validate:
+        required: true

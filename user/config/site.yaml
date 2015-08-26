@@ -1,0 +1,45 @@
+title: Ashley Clarke
+description: Developer. Brit. Student.
+taxonomies: [php, devops]
+metadata:
+    description: The rabablings of someone who has no idea what they're doing
+
+logo: https://s.gravatar.com/avatar/ef8ca0b21140ab8c7b94955c3d328ec6?s=200
+
+date_long: 'd F Y'
+date_short: 'd M Y'
+
+author:
+    name: Ashley Clarke
+    email: me@ashleyclarke.me
+    image: https://s.gravatar.com/avatar/ef8ca0b21140ab8c7b94955c3d328ec6?s=200
+    bio: Developer. Brit. Student.
+
+social:
+    - icon: twitter
+      url: https://twitter.com/clarkeash
+      desc: Follow me on twitter
+      share_url: http://twitter.com/share
+      share_title: ?text=
+      share_link: "&amp;url="
+
+    # - icon:  facebook
+    #   url:   https://facebook.com/???
+    #   desc: Connect with me facebook
+    #   share_url: //www.facebook.com/sharer.php
+    #   share_title: ?t=
+    #   share_link: "&amp;u="
+
+    - icon: github
+      url: https://github.com/clarkeash
+      desc: Fork me on github
+      share_url:
+      share_title:
+      share_link:
+
+    # - icon:  google-plus
+    #   url:   https://google.com/???
+    #   desc:  Add me on google+
+    #   share_url:
+    #   share_title:
+    #   share_link:
